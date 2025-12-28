@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Clientes.BLL/Clientes.BLL.csproj" />
+  <Project Path="Clientes.CORE/Clientes.CORE.csproj" />
+  <Project Path="Clientes.DAL/Clientes.DAL.csproj" />
+  <Project Path="ClientesAPI/ClientesAPI.csproj" />
+</Solution>
